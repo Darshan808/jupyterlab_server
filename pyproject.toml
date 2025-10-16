@@ -36,6 +36,7 @@ dependencies = [
   "jupyter_server>=1.21,<3",
   "packaging>=21.3",
   "requests>=2.31",
+  "jupyter_core>=5.9.0",
 ]
 
 [[project.authors]]
